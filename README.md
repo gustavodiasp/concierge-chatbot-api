@@ -1,4 +1,6 @@
 # README
+# concierge-chatbot-api
+Concierge API with integration for WPP and Telegram
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
